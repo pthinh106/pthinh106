@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thịnh</h1>
 - 📫 How to reach me **thinhit.nguyen@gmail.com**
-<img  align="right" width="400" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"/>
+<img  width="400" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/npt.106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="npt.106" height="30" width="40" /></a>
